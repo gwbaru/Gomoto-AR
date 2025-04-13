@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="monorelarcard" size="20.000000 13.363413" />
+    <ImageTarget name="lrtarcard" size="20.000000 13.363413" />
+    <ImageTarget name="krlarcard" size="20.000000 13.363413" />
+    <ImageTarget name="bajajarcard" size="20.000000 13.363413" />
+    <ImageTarget name="kopajaarcard" size="20.000000 13.368896" />
+    <ImageTarget name="metrominiarcard" size="20.000000 13.363413" />
+    <ImageTarget name="buswayarcard" size="10.000000 6.681706" />
+  </Tracking>
+</QCARConfig>

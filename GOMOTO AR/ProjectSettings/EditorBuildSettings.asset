@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HOME/Mainmenu.unity
+    guid: 8af78d30873d517449ae39b0a57a04c0
+  - enabled: 1
+    path: Assets/Scenes/HOME/Credit.unity
+    guid: ad0658b0d83c2514f9e3d75cd6b8874f
+  - enabled: 1
+    path: Assets/Scenes/HOME/Doa.unity
+    guid: 647b10b7e29dc9145bef8055f10b7665
+  - enabled: 1
+    path: Assets/Scenes/HOME/PilihMateri.unity
+    guid: 245dfe3adcad4c247808dcf66266da65
   m_configObjects: {}
