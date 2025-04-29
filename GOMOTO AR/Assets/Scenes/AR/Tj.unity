@@ -812,13 +812,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: krlarcard
+  mTrackableName: buswayarcard
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/GOMOTO.xml
-  mAspectRatio: 0.66817063
+  mAspectRatio: 0.6681706
   mImageTargetType: 0
-  mWidth: 20
-  mHeight: 13.363413
+  mWidth: 10
+  mHeight: 6.6817055
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -854,7 +854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 2098060663}
   mHiddenRoot: {fileID: 0}
-  mTargetName: krlarcard
+  mTargetName: buswayarcard
   mDatasetName: Vuforia/GOMOTO.xml
   mCastedBehaviour: {fileID: 2098060663}
   mMeshFilter: {fileID: 0}
