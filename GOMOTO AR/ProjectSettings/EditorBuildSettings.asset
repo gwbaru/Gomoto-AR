@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/HOME/Credit.unity
     guid: ad0658b0d83c2514f9e3d75cd6b8874f
   - enabled: 1
-    path: Assets/Scenes/HOME/Doa.unity
+    path: Assets/Scenes/HOME/DoaKeluarRumah.unity
     guid: 647b10b7e29dc9145bef8055f10b7665
   - enabled: 1
     path: Assets/Scenes/HOME/MenuTransportasi.unity
@@ -23,6 +23,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR/Kopaja.unity
     guid: ab5d18ff2d718634a9deefa03d3be83d
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Halte.unity
+    guid: ef30105a788651c41980e1243c6318fe
+  - enabled: 1
+    path: Assets/Scenes/HOME/DoaNaikKendaraan.unity
+    guid: 0331e99d748778e448b5b1eff31a1089
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/JalanTol.unity
+    guid: abc49cc792fc55b4fb385ff006ca2ca3
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Kereta.unity
+    guid: 400db4126af2b1b4fbd4beb3593bb4b6
+  - enabled: 1
+    path: Assets/Scenes/AR/Metromini.unity
+    guid: 7b66d33c02951bf46a3c096566f4103a
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Komponen.unity
+    guid: 533829fb62199c548a54bae43f80856f
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Lalulintas.unity
+    guid: b665d6f4d3154784cbbbbff4b4780005
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Prasarana.unity
+    guid: 0b0ef7b568f43ee419c730fdece4e635
+  - enabled: 1
+    path: Assets/Scenes/Materi Lalulintas/Trotoar.unity
+    guid: 6487cc96f2ac3e14cb4dc73654eca8c3
   - enabled: 1
     path: Assets/Scenes/AR/KRL.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
