@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HOME/MenuTransportasi.unity
     guid: 245dfe3adcad4c247808dcf66266da65
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Quiz/Skor.unity
     guid: 5da1fea361b21ac40beb98fe164c63bd
   - enabled: 1
