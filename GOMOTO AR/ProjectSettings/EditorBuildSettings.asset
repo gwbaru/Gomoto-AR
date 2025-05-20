@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/AR/Bajaj.unity
     guid: 01d51c7df30ac154f842699de948f0cc
   - enabled: 1
+    path: Assets/Scenes/Quiz/QuizGuide.unity
+    guid: 4138609baa3e3e142b6ab76e28169575
+  - enabled: 1
     path: Assets/Scenes/Quiz/Level.unity
     guid: 9c20e57906b8e5c4eb378a0875f00193
   - enabled: 1
@@ -35,6 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HOME/DoaNaikKendaraan.unity
     guid: 0331e99d748778e448b5b1eff31a1089
+  - enabled: 1
+    path: Assets/Scenes/HOME/PetunjukAR.unity
+    guid: 3bb16b6b8fe48514f89ce2c2301bbe42
   - enabled: 1
     path: Assets/Scenes/Materi Lalulintas/JalanTol.unity
     guid: abc49cc792fc55b4fb385ff006ca2ca3

@@ -21,6 +21,7 @@ public class Jawab : MonoBehaviour
             feed_benar.SetActive (true);
             int skor = PlayerPrefs.GetInt("skor") + 10;
             PlayerPrefs.SetInt ("skor", skor);
+            
         }
         else
         {
